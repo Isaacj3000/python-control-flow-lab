@@ -254,8 +254,3 @@ def guess_number():
 # Call the function
 guess_number()
 
-   
-    
-
-# Call the function
-guess_number()
